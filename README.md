@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Matheus!</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full Stack em Formação</b> 🚀<br>
+  <b>Desenvolvedor de Sistemas em Formação</b><br>
   Transformando ideias em soluções digitais eficientes a partir de Botucatu - SP.
 </p>
 
