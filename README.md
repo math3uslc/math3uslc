@@ -9,7 +9,7 @@
   <a href="mailto:matheusloengocoelho@yahoo.com.br"><img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
   <a href="https://wa.me/5514998016231" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://instagram.com/math3us.lc" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="Link para download no Google Drive" target="_blank"><img src="https://img.shields.io/badge/Currículo-CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Currículo"></a>
+  <a href="https://drive.google.com/file/d/1fNwzBfsNrSdyJeEgRGWMwrM7bdBm1lON/view" target="_blank"><img src="https://img.shields.io/badge/Currículo-CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Currículo"></a>
 </p>
 
 ---
