@@ -47,9 +47,3 @@ Estou no caminho para me tornar um profissional completo na área de **Desenvolv
 * ⚖️ *Ética na Inteligência Artificial*
 * 🛡️ *Por dentro da Segurança Cibernética*
 * 📊 *Excel Básico*
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=math3uslc&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
